@@ -1,0 +1,8 @@
+{
+    "title": "SlotMachine",
+    "identifier": "com.yourcompany.wizardEVP.SlotMachine",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
